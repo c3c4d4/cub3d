@@ -1,0 +1,6 @@
+cub3D
+*.o
+tests/parser_probe*
+minilibx-linux/*.o
+minilibx-linux/libmlx.a
+minilibx-linux/config.h
